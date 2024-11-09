@@ -21,7 +21,7 @@ Clone this repository to your local machine using the following command:
 
 bash
 Copy code
-git clone https://github.com/yourusername/CarRentalShop.git
+git clone https://github.com/varunsharma/CarRentalShop.git
 2. Compile the Code:
 Ensure that you have a C++ compiler (like g++) installed on your system. To compile the code, open your terminal in the project directory and run:
 
